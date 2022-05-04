@@ -2,8 +2,11 @@
 
 Pour commencer, regarder la page `Insight > Network` permet de se faire une bonne idée de l'état actuel de l'espace de travail.
 
+<<<<<<< HEAD
 ![Network](docs/network_git.png)
 
+=======
+>>>>>>> f873b474047f93271a2c3477bb9997e2c42a34c2
 ## Régler les conflit
 
 ### La terre le vent et le feu
@@ -32,6 +35,7 @@ Sauf que le partage des tâches n'a pas été bien fait. Résultat ils se sont t
   1. Rappatrier la branche en local PUIS récupérer les changements `git merge origin/henriette`
 
 </details>
+<<<<<<< HEAD
 <details>
 <summary>Pour régler les conflits</summary>
 
@@ -159,3 +163,7 @@ On va donc lui dire qu'on est sur de ce qu'on fait, et que "oui, ces commits ont
 
 Pour forcer la mise à jour : `git push --force origin nom_de_la_branche`.
 
+=======
+
+
+>>>>>>> f873b474047f93271a2c3477bb9997e2c42a34c2
